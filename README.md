@@ -77,20 +77,12 @@ algorithms from scratch to build strong foundations.
 
 ##  Featured Projects
 
-- **Harmful Content Detection:** An NLP project using **BERT** to filter harmful content, presented at Helwan Cyber Arena 2025[cite: 15].
+- **Harmful Content Detection:** An NLP project using **BERT** to filter harmful content, presented at Helwan Cyber Arena 2025.
 -  **Email Spam Classifier:** An NLP model built with **RNNs** that achieved **98% accuracy**[cite: 25, 26].
--  **Automated Scrapers:** Python-based GUI tools for extracting data from Amazon, Booking.com, and Yallakora[cite: 22, 23, 34, 35].
--  **Rainfall Prediction:** Data analysis and visualization of 10 years of Australian weather data[cite: 31, 32].
--  **KNN From Scratch:** Pure Python implementation of the K-Nearest Neighbors algorithm[cite: 27, 28].
+-  **Automated Scrapers:** Python-based GUI tools for extracting data from Amazon, Booking.com, and Yallakora.
+-  **Rainfall Prediction:** Data analysis and visualization of 10 years of Australian weather data.
+-  **KNN From Scratch:** Pure Python implementation of the K-Nearest Neighbors algorithm.
 
 ---
 
-##  GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlaaKamalFaroq&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=AlaaKamalFaroq&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaKamalFaroq&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150"/>
-
-</div>
