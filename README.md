@@ -26,60 +26,35 @@ AI Student · Machine Learning Trainee · NLP Enthusiast
 
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I am an **Artificial Intelligence student at Helwan University** with a strong focus on  
-**Machine Learning, NLP, and applied AI systems**.
+[cite_start]I am an **Artificial Intelligence student at Helwan University** with a focus on **Machine Learning, NLP, and applied AI systems**[cite: 6, 8]. 
 
-Currently, I’m gaining hands-on experience as an **AI & Machine Learning Trainee** at  
-the **Ministry of Communications and Information Technology (DEPI)**.
+[cite_start]Currently, I am an **AI & Machine Learning Trainee** at the **Ministry of Communications and Information Technology (DEPI)**, where I apply deep learning techniques to hands-on projects[cite: 10, 11, 12].
 
-I enjoy building **end-to-end AI pipelines** — from data scraping and preprocessing  
-to training and evaluating deep learning models.
-
-- 🎓 **Education:** AI Major – Helwan University (GPA: 3.52 / 4.0 – Excellent)
-- 💼 **Current Role:** AI & ML Trainee @ MCIT (DEPI)
-- 🧠 **Interests:** NLP (BERT, RNNs), Data Automation, ML Fundamentals
-- 👩‍🏫 **Mentorship:** Git, GitHub & C++ Instructor (University Club)
-- 📫 **Email:** alaakamal7957358@gmail.com
+- [cite_start]🎓 **Education:** AI Major – Helwan University (GPA: 3.52 / 4.0 – Excellent)[cite: 6, 7, 8].
+- [cite_start]💼 **Experience:** Trainee @ MCIT (DEPI) and Participant at Helwan Cyber Arena 2025[cite: 11, 14].
+- [cite_start]🧠 **Key Project:** Developed an AI demo using NLP and BERT to protect teenagers from harmful content[cite: 15].
+- [cite_start]👩‍🏫 **Mentorship:** Git & GitHub Instructor for C++ bootcamps at FCIAI University Club[cite: 39, 40].
+- [cite_start]📫 **Contact:** alaakamal7957358@gmail.com[cite: 2].
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38"/>
-</p>
-
-### AI, ML & Data
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38"/>
-</p>
+### Languages & Tools
+- [cite_start]**Programming:** Python, C, C++, Java, JavaScript, HTML, CSS[cite: 58].
+- [cite_start]**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn[cite: 31, 32, 48, 58].
+- [cite_start]**AI/ML:** NLP, RNNs, BERT, Deep Learning[cite: 12, 15, 26, 58].
+- [cite_start]**DevOps:** Git, GitHub[cite: 40, 58].
 
 ---
 
 ## 📂 Featured Projects
 
-- 🧠 **Harmful Content Detection (NLP):** BERT-based AI demo presented at Helwan Cyber Arena 2025.
-- 📧 **Email Spam Classification:** RNN-based NLP model with 98% accuracy.
-- 🛒 **E-commerce & Travel Scrapers:** Python GUI scrapers for Amazon & Booking.com.
-- 🌦️ **Rainfall Prediction:** Data analysis & visualization using 10+ years of weather data.
-- ⚽ **Football Match Scraper:** Automated scraping & structured CSV generation.
+- [cite_start]🧠 **Harmful Content Detection (NLP):** A BERT-based AI demo presented live at Helwan Cyber Arena 2025[cite: 15, 16].
+- [cite_start]📧 **Email Spam Classification:** Developed an RNN-based NLP model achieving **98% accuracy**[cite: 25, 26].
+- [cite_start]🛒 **E-commerce & Travel Scrapers:** Built Python GUI scrapers for Amazon & Booking.com to export structured data[cite: 22, 23].
+- [cite_start]🌦️ **Rainfall Prediction:** Analyzed 10 years of Australian weather data using Pandas and Matplotlib[cite: 31, 32].
+- [cite_start]⚽ **Football Match Scraper:** automated data extraction from Yallakora using BeautifulSoup and Requests[cite: 34, 35].
 
 ---
 
@@ -87,8 +62,9 @@ to training and evaluating deep learning models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlaaKamalFaroq&show_icons=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=AlaaKamalFaroq&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaKamalFaroq&layout=compact&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlaaKamalFaroq&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaKamalFaroq&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=AlaaKamalFaroq&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
 
 </div>
