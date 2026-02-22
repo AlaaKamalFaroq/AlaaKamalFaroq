@@ -30,7 +30,7 @@ I’m an **Artificial Intelligence student at Helwan University** with strong in
 I enjoy working on **real-world datasets**, understanding models deeply, and implementing  
 algorithms from scratch to build strong foundations.
 
-- 🎓 **Major:** Artificial Intelligence (GPA: 3.52 / 4.0 – Excellent)
+- 🎓 **Major:** Artificial Intelligence .
 - 🔭 **Currently working on:** ML & NLP projects
 - 🌱 **Currently learning:** Deep Learning (CNNs, RNNs) & Model Evaluation
 - 💼 **Open to:** AI / ML Internships & Research-oriented opportunities
