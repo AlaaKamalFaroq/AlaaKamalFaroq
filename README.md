@@ -73,15 +73,7 @@ algorithms from scratch to build strong foundations.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </div>
 
----
 
-##  Featured Projects
-
-- **Harmful Content Detection:** An NLP project using **BERT** to filter harmful content, presented at Helwan Cyber Arena 2025.
--  **Email Spam Classifier:** An NLP model built with **RNNs** that achieved **98% accuracy**[cite: 25, 26].
--  **Automated Scrapers:** Python-based GUI tools for extracting data from Amazon, Booking.com, and Yallakora.
--  **Rainfall Prediction:** Data analysis and visualization of 10 years of Australian weather data.
--  **KNN From Scratch:** Pure Python implementation of the K-Nearest Neighbors algorithm.
 
 ---
 
